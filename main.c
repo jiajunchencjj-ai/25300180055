@@ -3,5 +3,5 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("OK.Yeah.\n");
+    printf("来了奥我是列巴\n");
 }
