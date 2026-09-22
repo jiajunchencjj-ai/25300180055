@@ -3,5 +3,5 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("OK.Yeah.\n");
+    printf("Feature is future.\n");
 }
